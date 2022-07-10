@@ -29,5 +29,5 @@ python yiqingbaseline.py
 
 ​		关注我的微信公众号：疯狂的奈瑞。
 
-文章地址：...
+文章地址：https://mp.weixin.qq.com/s/OEjr7oyh1782_aF5YRYnHA
 
